@@ -15,7 +15,7 @@
 
 ### After following above three steps, you should get excat results as mentioned in paper.
 
-### For any query related to the above code, please contact at chandangautam31@gmail.com
+### For any query related to the above code, you can reach me at chandangautam31@gmail.com
 
 
 
