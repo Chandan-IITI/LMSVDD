@@ -3,10 +3,14 @@
 
 
 
-#   Paper: Localized Multiple Kernel Support Vector Data Description (LMKSVDD)
-$   Authors = Chandan Gautam and Aruna Tiwari
-#   Published in IEEE International Conference on Data Mining Workshops (ICDMW),
-#   year=2018
+@inproceedings{gautam2018localized,
+  title={Localized Multiple Kernel Support Vector Data Description},
+  author={Gautam, Chandan and Tiwari, Aruna},
+  booktitle={2018 IEEE International Conference on Data Mining Workshops (ICDMW)},
+  pages={1514--1521},
+  year={2018},
+  organization={IEEE}
+}
 
               https://ieeexplore.ieee.org/abstract/document/8637566
               
