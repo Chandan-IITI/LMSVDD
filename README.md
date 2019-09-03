@@ -1,16 +1,7 @@
-# LMSVDD
-                                              ### Related Paper ###
+# Paper
 
-
-
-@inproceedings{gautam2018localized,
-  title={Localized Multiple Kernel Support Vector Data Description},
-  author={Gautam, Chandan and Tiwari, Aruna},
-  booktitle={2018 IEEE International Conference on Data Mining Workshops (ICDMW)},
-  pages={1514--1521},
-  year={2018},
-  organization={IEEE}
-}
+C. Gautam and A. Tiwari, "Localized Multiple Kernel Support Vector Data Description," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1514-1521.
+doi: 10.1109/ICDMW.2018.00224
 
               https://ieeexplore.ieee.org/abstract/document/8637566
               
