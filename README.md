@@ -1,6 +1,6 @@
 # Paper
 
-### C. Gautam and A. Tiwari, "Localized Multiple Kernel Support Vector Data Description," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1514-1521.
+### C. Gautam and A. Tiwari, "Localized Multiple Kernel Support Vector Data Description," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, 2018, pp. 1514-1521.
 
               https://ieeexplore.ieee.org/abstract/document/8637566
               
